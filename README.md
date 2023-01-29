@@ -1,15 +1,13 @@
-# copyright-year-update
-
+# Copyright Year Auto-update
 Updating copyright year on the footer of the website automatically
 
-Languages used: JavaScript, HTML, CSS
+## Languages
+- JavaScript, HTML, CSS
 
-Methods used:
-
+## Methods
 - Date()
-- .getFullYear()
+- getFullYear()
 
-Steps:
-
+## Steps
 - Select the item
 - Create a function to display only year
