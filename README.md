@@ -10,4 +10,4 @@ Updating copyright year on the footer of the website automatically
 
 ## Steps
 - Select the item
-- Create a function to display only year
+- Create a function to display only the current year
