@@ -1,4 +1,4 @@
-# Copyright Year Auto-update
+# Copyright year auto-update
 Updating copyright year on the footer of the website automatically
 
 ## Languages
